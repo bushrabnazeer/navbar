@@ -1,0 +1,35 @@
+body{
+	 margin: 0;
+}
+ul{
+	padding: 10px;
+}
+
+.navigation {
+	background-color: black;
+	margin: 20px;
+	/*padding: 20px;*/	
+	text-align: center;
+	width: 100%;
+	height: 40px;
+	border-style: block;
+}
+
+h1{
+	font-size:normal;
+}
+li {
+	color:white	;
+	margin: 2px;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+	display:inline-block;
+	font-family:"Times New Roman";
+
+
+}
+a{
+	color: white;
+	text-decoration: overline;
+}
